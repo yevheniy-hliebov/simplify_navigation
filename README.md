@@ -40,7 +40,7 @@ dependencies:
     sdk: flutter
   simplify_navigation:
     git:
-      url: https://github.com/your-repo/simplify_navigation.git
+      url: https://github.com/yevheniy-hliebov/simplify_navigation.git
 ```
 
 ## Usage
